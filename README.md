@@ -1,5 +1,5 @@
 # just run the code below
-fn = 'llama-server'
+fn = 'llama-server'\n
 zipff=fn+'.zip'
 zipf='https://github.com/meiduofei/llama-server/raw/main/'+zipff
 if not os.path.exists('server'):
